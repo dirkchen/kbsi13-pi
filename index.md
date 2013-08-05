@@ -1,77 +1,95 @@
 ---
 title       : Promisingness Judgments as Facilitators of Epistemic Growth and Conceptual Change
-subtitle    : 
-author      : Bodong Chen, Jennifer Gonzalez, Fernando Diaz del Castillo, Jim Slotta
-job         : 
+author      : Bodong Chen
 framework   : shower        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
+logo        : uoft.png
+biglogo     : SI2013-Logo2.jpg
+license: by-nc-sa
 widgets     : []            # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {standalone, draft}
+github      : {user: dirkchen, repo: kbsi13-pi}
+
+--- .cover #Cover
+
+# Promisingness Judgments as Facilitators of Epistemic Growth and Conceptual Change
+
+### Bodong Chen, Jennifer Gonzalez, Fernando Diaz del Castillo, Jim Slotta <br /> KBSI 2013, August 6-9 <br /> Puebla, Mexico
+
 ---
 
 ## Knowledge Building and science learning
 
 1. A theory-building approach for deep understanding
-> - “knowledge-as-theories” perspective (Carey, 1985; Posner, et al., 1982)
-> - “mental models” (Vosniadou & Brewer, 1992)
-> - continual improvement of ideas to improve their “explanatory power” (Bereiter, 2012)
-
+ - “knowledge-as-theories” (Carey, 1985; Posner, et al., 1982)
+ - “mental models” (Vosniadou & Brewer, 1992)
+ - improvement towards higher “explanatory power” (Bereiter, 2012)
 2. A community-oriented view of learning
-> - individual minds --> both individual and social aspects (Vosniadou, 2008)
-> - school as knowledge-creating organizations, in which the state of knowledge is more determined by the community rather than individuals (Scardamalia & Bereiter, 2006)
-> - ideas as “epistemic artifacts” to be publicly shared and continually improved
+ - individual minds → individual + social aspects (Vosniadou, 2008)
+ - school as knowledge-creating organizations
+ - ideas as “epistemic artifacts” to be continually improved
+ 
+<!--in which the state of knowledge is more determined by the community rather than individuals-->
+
+--- #blockquote
+
+> During all those years there was the **feeling of direction**, of going straight toward something concrete. It is, of course, very hard to express that feeling in words; but it was **decidedly the case**, and clearly to be distinguished from later considerations about the rational form of the solution. 
+>
+> — Albert Einstein, Nobel laureate in physics, 1921
 
 ---
 
-> During all those years there was the feeling of direction, of going straight toward something concrete. It is, of course, very hard to express that feeling in words; but it was decidedly the case, and clearly to be distinguished from later considerations about the rational form of the solution.
+> I think, we almost felt at times that there was **almost a hand guiding us**. Because we would go from one step to the next, and somehow we would **know which was the right way to go**. 
 >
-> ---Albert Einstein
-
-> I think, we almost felt at times that there was almost a hand guiding us. Because we would go from one step to the next, and somehow we would know which was the right way to go.
->
-> ---Michael S. Brown, Nobel laureate in medicine
+> — Michael S. Brown, Nobel laureate in medicine, 1985
 
 ---
 
-## Promisingness judgments in creation
+## Promisingness judgments in knowledge creation
 
 - Paradigm shift and theory choice (Kuhn, 1977, 1996)
 - Risk assessment in real-world scientific reasoning (Dunbar, 1995)
 - Detecting “discrepant elements” in creative processes (Gardner, 1994)
-- Design-mode vs. belief-mode thinking (Bereiter, 2002)
+- **Design-mode vs. belief-mode thinking** (Bereiter, 2002)
   - promisingness vs. truthfulness
-- Knowledge of *promisingness* distinguishes creative experts from non-experts (Bereiter & Scardamalia, 1993)
+- Knowledge of **promisingness** distinguishes creative experts from non-experts (Bereiter & Scardamalia, 1993)
 
 ---
 
 ## Promisingness judgments in classrooms
 
-- The same challenge of identifying promising directions to avoid wasting time or becoming entrapped by unpromising ones
-- Promisingness judgments as an important component of epistemic agency and collective cognitive responsibility
-- Prior research
-  - Promising Ideas (PI) tool in Knowledge Forum (Chen et al., 2010)
-  - The term promisingness is naturally challenging (Chen et al., 2011)
-  - With guidance, young students could make promisingness judgments leading to greater knowledge advancement (Chen et al., 2012)
-- Next question
-  - Is there any other latent benefit of promisingness judgments?
+- The same challenge of identifying promising directions
+- An important component of students' epistemic agency
+- Prior research on promisingness
+  1. Promising Ideas (PI) tool in Knowledge Forum (Chen et al., 2010)
+  2. The term promisingness is naturally challenging (Chen et al., 2011)
+  3. With guidance, young students could make promisingness judgments leading to greater knowledge advancement (Chen et al., 2012)
+
+--- .shout #warning
+
+## What's next?
 
 ---
 
 ## Epistemic beliefs in science learning
 
-- Definition: ...
-- Rich literature (e.g., Perry, 1970; Schommer, 1990; Hofer & Pintrich, 1997)
-- Conley, Pintrich, Vekiri, & Harrison, 2004
-  - certainty of knowledge
-  - simplicity of knowledge
-  - source of knowing
-  - justification for knowing
-- Link with promisingness
-  - quality promisingness judgments require advanced epistemic beliefs
-    - one premise of promisingness is that ideas are complex and tentative; linked to "certain knowledge"
-    - see knowledge as an evolving and changing subject; link to "justifying of knowledge"
-  - whether by engaging students in making promisingness judgments their epistemological thinking could be improved?
+- "*Students' beliefs about the nature of knowledge*" (Schommer, 1990)
+- Multiple dimensions (Conley, Pintrich, Vekiri, & Harrison, 2004)
+  1. *certainty of knowledge*
+  2. *simplicity of knowledge*
+  3. *source of knowing*
+  4. *justification for knowing*
+
+---
+
+## Promisingness judgments ↔ Epistemic beliefs
+
+- Quality promisingness judgments depends on epistemic beliefs
+  - knowledge is an evolving subject ↔ "certainty of knowledge"
+  - ideas are complex ↔ "simplicity of knowledge"
+  - ideas are tentative ↔ "justification for knowing"
+- By engaging students in making promisingness judgments, whether their epistemic beliefs could be improved?
 
 ---
 
@@ -80,38 +98,46 @@ mode        : selfcontained # {standalone, draft}
 - 26 Grade 6 students from a Colombian K-12 school
 - Studying a biology unit, "popolation dymanics", for 10 weeks
 
+<center><img src="assets/img/procedures.png" alt="Procedures" height="310px" align="middle" /></center>
 
-<img src="assets/img/procedures.png" alt="Procedures" height="475px" />
+<!--
+Phase    | Time      | Activities
+---------|-----------|----------------------------
+Phase 1  | Week 1-4  | Pre-test
+         |           | Pedagogical intervention
+Phase 2  | Week 5-7  | KB + PJ
+Phase 3  | Week 8-10 | KB + PJ
+-->
 
 ---
 
 ## Promising Ideas tool
 
-<img src="assets/img/pi1.png" alt="PI 1" height="575px" />
+<img src="assets/img/pi1.png" alt="PI 1" height="475px" />
 
----
+--- .cover .w
 
-<img src="assets/img/pi2.png" alt="PI 2" height="550px" />
+![width](assets/img/pi2.png)
 
----
+--- .cover
 
-<img src="assets/img/kf6.png" alt="PI 3" height="600px" />
+![heigth](assets/img/kf6.png)
 
 
 ---
 
 ## An overview of results
 
-<img src="assets/img/dataanalysis.png" alt="Data analysis" height="570px" />
+<img src="assets/img/dataanalysis.png" alt="Data analysis" height="425px" />
 
 ---
 
-## 1. Evolution of Students’ Knowledge of Promisingness
+## 1. Evolution of Students’ Promisingness Knowledge
 
 
 ---
 
-## 2. Impact of Promisingness Judgments on Discourse Patterns
+## 2. Impact of PJ on Discourse Patterns
 
 
 ---
