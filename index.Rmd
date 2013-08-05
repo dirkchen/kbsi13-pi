@@ -3,7 +3,7 @@ title       : Promisingness Judgments as Facilitators of Epistemic Growth and Co
 subtitle    : 
 author      : Bodong Chen, Jennifer Gonzalez, Fernando Diaz del Castillo, Jim Slotta
 job         : 
-framework   : shower        # {io2012, html5slides, shower, dzslides, ...}
+framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
 widgets     : []            # {mathjax, quiz, bootstrap}
