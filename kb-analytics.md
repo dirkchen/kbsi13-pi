@@ -62,11 +62,31 @@ github      : {user: dirkchen, repo: kbsi13-pi}
 ## Recap of Bereiter's keynote at KBSI2012 (cont'd)
 
 - Emergence and prevalence of naive conceptions or misconceptions: detect signs of concept learning going awry and map the spread or extinction of misconceptions. 
-- Morale, socio-cognitive norms, collective cognitive responsibility, civility and other group-level virtues: higher-level evaluation is required. 
+- Morale, socio-cognitive norms, collective cognitive responsibility, civility and other group-level virtues: higher-level evaluation is required.
 
 ---
 
-## Opening up for discussion
+## What are already within our radar?
 
+- Counts and percentage of activities, e.g., note writing, note reading, building-on, referencing, etc.
+- Social Network Analysis, based on note reading, note linking, vocabulary
+Vocabulary growth; writing
+- Inquiry threads; Inquiry Thread Mapper (M.-H. Chen, Zhang, & Lee, 2013)
+- Lexical measures: 1st 1000 words, academic words, domain-specific words (Resendes, Chen, Acosta, & Scardamalia, 2013; Zhang & Sun, 2008)
+- Emergent vocabulary (Allaire & Lalancette)
 
+---
 
+## What are missed?
+
+- Oral discourse is generally not captured
+- Click-stream data is captured in KF, but generally not used in analytics
+- Temporality of discourse
+- Student models and dashboards
+- Models of a domain's knowledge structure
+- Emotions
+- Gamification knowledge building
+
+--- .shout
+
+## Discussion

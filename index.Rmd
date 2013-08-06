@@ -70,7 +70,7 @@ github      : {user: dirkchen, repo: kbsi13-pi}
   2. The term promisingness is naturally challenging (Chen et al., 2011)
   3. But, with guidance, students could make promisingness judgments leading to greater knowledge advancement (Chen et al., 2012)
 
---- .shout #warning
+--- .shout #next
 
 ## Next steps?
 
