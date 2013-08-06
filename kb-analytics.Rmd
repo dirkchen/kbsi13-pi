@@ -1,5 +1,5 @@
 ---
-title       : Workshop 1 --- Next Generation Knowledge Forum
+title       : Workshop 1 - Next Generation Knowledge Forum
 author      : 
 framework   : shower        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
@@ -56,6 +56,11 @@ github      : {user: dirkchen, repo: kbsi13-pi}
 - Quality of dialogue: assess whether the discussion is making progress or even whether it is on topic; track good things emerging from a good dialogue.
 - New ideas, insights, discoveries, and inventions: not always attributable to individuals; low occurrence. 
 - Growth in active vocabulary: change in actual use of domain vocabulary; the entry of new terms into classroom discourse.
+
+---
+
+## Recap of Bereiter's keynote at KBSI2012 (cont'd)
+
 - Emergence and prevalence of naive conceptions or misconceptions: detect signs of concept learning going awry and map the spread or extinction of misconceptions. 
 - Morale, socio-cognitive norms, collective cognitive responsibility, civility and other group-level virtues: higher-level evaluation is required. 
 
