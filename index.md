@@ -72,7 +72,7 @@ github      : {user: dirkchen, repo: kbsi13-pi}
 
 --- .shout #warning
 
-## What's next?
+## Next steps?
 
 ---
 
@@ -107,7 +107,7 @@ github      : {user: dirkchen, repo: kbsi13-pi}
 ## Methods
 
 - 26 Grade 6 students from a Colombian K-12 school
-- Studying a biology unit, "popolation dymanics", for 10 weeks
+- Studying a biology unit, "population dymanics", for 10 weeks
 
 <center><img src="assets/img/procedures.png" alt="Procedures" height="310px" align="middle" /></center>
 
