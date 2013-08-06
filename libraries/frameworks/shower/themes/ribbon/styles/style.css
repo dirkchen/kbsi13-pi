@@ -23,9 +23,9 @@
 	content:counter(paging, decimal-leading-zero);
 }
 .slide section {
-	padding:70px 120px 0;
+	padding:60px 120px 0;
 	width:784px;
-	height:560px;
+	height:580px;
 	background:#FFF;
 	color:#000;
 }
@@ -87,7 +87,7 @@
 	-moz-tab-size:4;
 	-o-tab-size:4;
 	tab-size:4;
-	font-family:'PT Mono', monospace;
+	/*font-family:'PT Mono', monospace;*/
 }
 
 /* Quote */
@@ -105,7 +105,7 @@
 /* Lists */
 .slide ol,
 .slide ul {
-	margin:0 0 45px;
+	margin:0 0 25px;
 	counter-reset:list;
 }
 .slide ul ul,
@@ -180,7 +180,7 @@
 }
 .slide.cover h3 {
 	color:#AAA;
-	size:25px;
+	size:30px;
 }
 .slide.cover section:before {
 	display:none;
