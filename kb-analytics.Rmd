@@ -86,6 +86,7 @@ Vocabulary growth; writing
 - Models of a domain's knowledge structure
 - Emotions
 - Gamification knowledge building
+- Opensource data infrastructure
 
 --- .shout
 
