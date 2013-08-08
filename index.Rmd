@@ -76,8 +76,9 @@ github      : {user: dirkchen, repo: kbsi13-pi}
 
 ---
 
-<br>
-> `Science is about failure`... Everyone makes mistakes and scientists especially. Because they’re going to try something and it's not always going to work... So science isn't about learning what other people have learned. Science is about finding things out for yourself... It's kind of like ... trial and error. So you're going to learn lots about it, but sometimes you're not going to get the right one.  — A Grade 5 student, during an interview at ICS
+During an interview, a **Grade 5 student** said:
+
+> `Science is about failure`... Everyone makes mistakes and scientists especially. Because they’re going to try something and it's not always going to work... So science isn't about learning what other people have learned. Science is about finding things out for yourself... It's kind of like ... trial and error. So you're going to learn lots about it, but sometimes you're not going to get the right one.
 
 ---
 
@@ -198,7 +199,26 @@ Phase 3  | Week 8-10 | KB + PJ
 
 ## IV. Changes in students' epistemic beliefs
 
+- Paired sample *t*-test found significant growth in:
+  - overall score, *t*(24) = -3.80, *p* < .001
+  - source of knowledge, *t*(24) = -2.61, *p* < .05
+  - justification of knowing, *t*(24) = -2.96, *p* < .01
+
 <center><img src="assets/img/epistemic.png" alt="Data analysis" height="220px" /></center>
+
+---
+
+## IV. Changes in students' epistemic beliefs (cont'd)
+
+Gender difference
+
+<center><img src="assets/img/epistemic_gender.png" alt="Data analysis" height="360px" /></center>
+
+---
+
+## IV. Changes in students' epistemic beliefs (cont'd)
+
+Correlations
 
 - epistemic growth ↔ promisingness conception growth, *r* = .47, *p* < .05
 - epistemic growth ↔ conceptual understanding, *r* = .46, *p* < .01
