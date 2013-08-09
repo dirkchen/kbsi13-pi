@@ -87,8 +87,8 @@ During an interview, a **Grade 5 student** said:
 - "*Beliefs about the nature of knowledge*" (Schommer, 1990)
 - **Multiple dimensions** (Conley, Pintrich, Vekiri, & Harrison, 2004)
   1. *certainty of knowledge*
-  2. *simplicity of knowledge*
-  3. *source of knowing*
+  2. *source of knowledge*
+  3. *development of knowledge*
   4. *justification for knowing*
 - **Promisingness judgments ↔ Epistemic beliefs**
 
@@ -107,7 +107,7 @@ During an interview, a **Grade 5 student** said:
 
 ## Methods
 
-- 26 Grade 6 students from a Colombian K-12 school
+- 26 sixth grade students from a Colombian K-12 school
 - Studying a biology unit, "population dymanics", for 10 weeks
 
 <center><img src="assets/img/procedures.png" alt="Procedures" height="310px" align="middle" /></center>
@@ -160,7 +160,7 @@ Phase 3  | Week 8-10 | KB + PJ
 
 > *"I don't think it's absolutely correct because ... we don't think promising means absolutely correct but near correct."*
 
-> *"I disagree with ... I think that's not necessary an expert can make a promising answer. ... Because the promising question takes time, not like a question you're doing in a second."*
+> *"I disagree with [...]. I think that's not necessary an expert can make a promising answer. ... Because the promising question takes time [to answer], not like a question you're doing in a second."*
 
 ---
 
@@ -168,7 +168,7 @@ Phase 3  | Week 8-10 | KB + PJ
 
 > *"I think what makes ideas promising is ... it produces interests of further investigation or discussion..."*
 
-> *"A promising idea is not the answer, it is the idea that lead you to discussion. As we said before, they are not necessarily the correct answer, but those topics can lead you to discuss and be engaged, and learn a little bit about that topic."*
+> *"A promising idea is not the answer, it is the idea that lead you to discussion. As we said before, they are not necessarily the correct answer, but those topics can lead you to discuss and be engaged, and learn a little bit [more] about that topic."*
 
 ---
 
