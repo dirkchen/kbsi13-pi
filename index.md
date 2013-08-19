@@ -78,7 +78,7 @@ github      : {user: dirkchen, repo: kbsi13-pi}
 
 During an interview, a **Grade 5 student** said:
 
-> `Science is about failure`... Everyone makes mistakes and scientists especially. Because they’re going to try something and it's not always going to work... So science isn't about learning what other people have learned. Science is about finding things out for yourself... It's kind of like ... trial and error. So you're going to learn lots about it, but sometimes you're not going to get the right one.
+> `Science is about failure`... Everyone makes mistakes and scientists especially. Because they’re going to try something and it's not always going to work... So science isn't about learning what other people have learned. Science is about finding things out for yourself... So you're going to learn lots about it, but sometimes you're not going to get the right one.
 
 ---
 
